@@ -5,6 +5,21 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Home | TODOS</title>
+    <style>
+      li.done {
+        color: green;
+        font-weight: bold;
+        text-decoration: line-through;
+      }
+    </style>
   </head>
-  <body></body>
+  <body>
+    <h1>list</h1>
+    <form>
+      <input type="text" />
+      <button type="submit">Add TODO</button>
+    </form>
+    <ul id="todo-container"></ul>
+    <script src="index.js"></script>
+  </body>
 </html>
