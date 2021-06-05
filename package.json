@@ -1,0 +1,22 @@
+{
+  "name": "practica",
+  "version": "1.0.0",
+  "description": "Practica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssfrs/practica.git"
+  },
+  "keywords": [
+    "Practica"
+  ],
+  "author": "Ovidiu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssfrs/practica/issues"
+  },
+  "homepage": "https://github.com/ssfrs/practica#readme"
+}
